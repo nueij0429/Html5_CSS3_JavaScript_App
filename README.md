@@ -26,3 +26,10 @@ step3
     - form.css 파일로 분리하기
     - form 내부의 input에 form-group, form-grid css 추가
     - form.css에 form-group, form-grid 클래스 추가하기
+step4 
+    - JavaScript 코드 작성하기 시작
+    - Document Load Event 핸들링 하기
+    - Form Submit Event 핸들링 하기
+    - 사용자가 입력한 데이터를 Form Data에 저장하기
+step5 
+    - 입력한 데이터를 검증하는 validate() 함수를 
