@@ -18,3 +18,7 @@
 * 로딩 상태 표시
 * 수정 모드와 등록 모드 전환
 * 입력 필드별 실시간 유효성 검사(js)
+
+### 각 Step 별 기능:
+step1 - html page 작성
+step2 - form 내부의 input과 table에 CSS 추가
