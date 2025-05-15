@@ -42,3 +42,5 @@
 * step7
     * - studentData 객체 구조 변경하기 및 validate() 함수 수정
     * - POST /api/students 서버와 통신하는 createStudent() 함수 구현
+* step8
+    * - DELETE /api/students/1 서버와 통신하는 deleteStudent() 함수 구현
