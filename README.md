@@ -50,3 +50,7 @@
     * - GET /api/students/1 student 조회하는 editStudent() 함수 구현
     * - 수정 모드일 때 취소 버튼 보여주고, resetForm() 함수 구현하고 연결하기
     * - PUT /api/students/1 student 수정하는 updateStudent() 함수 구현
+* step10
+    * - 성공 및 실패 메시지를 alert() 대신 formError <span>에 보여주기
+    * - showSuccess() / showError() / clearMessage() 함수 추가
+    * - loadStudents() 목록 불러오기 실패한 경우에 처리
